@@ -5,7 +5,7 @@ A passionate Web developer & AI/ML Enthusiast.
 🔭 I’m currently working on skilling myself in the field of generative AI<br>🌱 I’m currently learning AI/ML along with web technologies<br>💬 Reach me via: mishrasujit409@gmail.com<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujit-mishra-634971239/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mishrasujit409) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujit-mishra-634971239/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mishrasujit409) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suzzit6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
