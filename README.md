@@ -1,5 +1,5 @@
 ## Hi there, I am Sujit 👋
-A passionate Web developer & AI/ML Enthusiast.
+A passionate AI/ML Enthusiast.
 
 # 💫 About Me:
 🔭 I’m currently working on skilling myself in the field of generative AI<br>🌱 I’m currently learning AI/ML along with web technologies<br>💬 Reach me via: mishrasujit409@gmail.com<br>
