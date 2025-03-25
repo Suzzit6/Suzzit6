@@ -2,7 +2,7 @@
 A passionate AI/ML Enthusiast.
 
 # 💫 About Me:
-🔭 I’m currently working on skilling myself in the field of generative AI<br>🌱 I’m currently learning AI/ML along with web technologies<br>💬 Reach me via: mishrasujit409@gmail.com<br>
+🔭 I’m currently working on skilling myself in the field of AIML<br>🌱 I’m currently learning AI/ML along with backend technologies<br>💬 Reach me via: mishrasujit409@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-mishra-634971239/)
